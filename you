@@ -1,0 +1,31 @@
+{
+  "card": {
+    "cells": [
+      {
+        "content": {
+          "hash": "7fb1e10673ab25fa8b12ef004a69c19b",
+          "url": "https://va-res.online.sberbank.ru/VA/images/greetings_experiments/orange.png"
+        },
+        "type": "image_cell_view"
+      },
+      {
+        "content": {
+          "max_lines": 0,
+          "text": "🐢🐢🐢",
+          "text_color": "default",
+          "typeface": "body2"
+        },
+        "paddings": {
+          "left": "8x",
+          "right": "8x",
+          "top": "2x"
+        },
+        "type": "text_cell_view"
+      }
+    ],
+    "paddings": {
+      "bottom": "9x"
+    },
+    "type": "list_card"
+  }
+}
