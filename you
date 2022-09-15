@@ -1,31 +1,29 @@
 {
-  "card": {
-    "cells": [
-      {
-        "content": {
-          "hash": "7fb1e10673ab25fa8b12ef004a69c19b",
-          "url": "https:\/\/va-res.online.sberbank.ru\/VA\/images\/first_session\/mobile_payment_760x428.gif"
-        },
-        "type": "image_cell_view"
+  "cells": [
+    {
+      "content": {
+        "hash": "7fb1e10673ab25fa8b12ef004a69c19b",
+        "url": "https:\/\/va-res.online.sberbank.ru\/VA\/images\/first_session\/mobile_payment_760x428.gif"
       },
-      {
-        "content": {
-          "max_lines": 0,
-          "text": "🐢🐢🐢",
-          "text_color": "default",
-          "typeface": "body2"
-        },
-        "paddings": {
-          "left": "8x",
-          "right": "8x",
-          "top": "2x"
-        },
-        "type": "text_cell_view"
-      }
-    ],
-    "paddings": {
-      "bottom": "9x"
+      "type": "image_cell_view"
     },
-    "type": "list_card"
-  }
+    {
+      "content": {
+        "max_lines": 0,
+        "text": "🐢🐢🐢",
+        "text_color": "default",
+        "typeface": "body2"
+      },
+      "paddings": {
+        "left": "8x",
+        "right": "8x",
+        "top": "2x"
+      },
+      "type": "text_cell_view"
+    }
+  ],
+  "paddings": {
+    "bottom": "9x"
+  },
+  "type": "list_card"
 }
